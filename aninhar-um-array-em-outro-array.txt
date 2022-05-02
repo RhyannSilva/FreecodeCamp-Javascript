@@ -1,0 +1,4 @@
+// Altere apenas o código abaixo desta linha
+const myArray = [["Lakers", 36], ["Bulls", 38]];
+
+console.log(myArray);

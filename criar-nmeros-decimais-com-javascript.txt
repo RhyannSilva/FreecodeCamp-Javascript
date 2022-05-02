@@ -1,0 +1,3 @@
+const myDecimal = 18.1;
+
+// Altere apenas o código abaixo desta linha
